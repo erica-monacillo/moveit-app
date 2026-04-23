@@ -73,3 +73,6 @@
     - Acceptance Criteria:
       - User receives booking confirmation
       - Notifications appear for ride updates
+     
+11. As a user, I want to rate my driver so I can give feedback.
+    
