@@ -10,3 +10,4 @@
 | Booking request failure | 3 | 5 | 15 | Add error handling and retries | Erica |
 | Poor user experience | 2 | 4 | 8 | Improve UI/UX design | Shene |
 | Bugs not detected early | 3 | 4 | 12 | Continuous testing by QA | Jars |
+
