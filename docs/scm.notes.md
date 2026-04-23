@@ -1,0 +1,3 @@
+- Conflict happened in: [file name]
+- Cause: simultaneous edits in same lines
+- Resolution: kept latest feature changes + manual merge
