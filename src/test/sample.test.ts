@@ -15,3 +15,5 @@ describe("Basic Tests", () => {
   test("Division works", () => {
     expect(10 / 2).toBe(5);
   });
+
+});
