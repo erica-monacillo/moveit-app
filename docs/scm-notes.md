@@ -14,4 +14,6 @@ Branches should follow this format:
 
 ## Merge Conflict Practice
 
-This line was edited directly from the dev branch.
+A merge conflict happened because the same section was edited in both the dev branch and the feature/conflict-practice branch.
+
+The conflict was resolved by combining the changes into one final version.
