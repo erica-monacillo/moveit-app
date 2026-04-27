@@ -42,3 +42,11 @@ Improving names makes the code easier to read, understand, and maintain. It is a
 - Clean up formatting.
 - Remove unnecessary code if found.
 - Keep the app behavior the same.
+
+## Selected Debt to Fix
+
+Selected item: Unclear Variable or Function Names
+
+## Refactor Completed
+
+I improved code readability by renaming unclear variables/functions to clearer names.
