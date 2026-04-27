@@ -14,4 +14,4 @@ Branches should follow this format:
 
 ## Merge Conflict Practice
 
-A merge conflict was simulated and resolved during the lab activity.
+This line was edited directly from the dev branch.
