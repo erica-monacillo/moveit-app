@@ -6,26 +6,26 @@ v0.5-scm
 
 ## Pre-Release Checks
 
-- [ ] Code merged into `dev`
-- [ ] Tests passed locally
-- [ ] CI checks are green
-- [ ] Version tag exists
-- [ ] Release notes are updated
-- [ ] Deployment plan is ready
-- [ ] Support plan is ready
-- [ ] Backup or rollback plan is ready
+- [x] Code merged into `dev`
+- [x] Tests passed locally
+- [x] CI checks are green
+- [x] Version tag exists
+- [x] Release notes are updated
+- [x] Deployment plan is ready
+- [x] Support plan is ready
+- [x] Backup or rollback plan is ready
 
 ## Deployment Checks
 
-- [ ] Application deployed to development environment
-- [ ] Deployment URL is available
-- [ ] Homepage loads successfully
-- [ ] Main user flow works
-- [ ] No major errors found
+- [x] Application deployed to development environment
+- [x] Deployment URL is available
+- [x] Homepage loads successfully
+- [x] Main user flow works
+- [x] No major errors found
 
 ## Post-Deployment Checks
 
-- [ ] Deployment link saved
-- [ ] Screenshot of deployed system captured
-- [ ] Known issues documented
-- [ ] Support process confirmed
+- [x] Deployment link saved
+- [x] Screenshot of deployed system captured
+- [x] Known issues documented
+- [x] Support process confirmed
